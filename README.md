@@ -53,6 +53,6 @@ This is a portfolio project demonstrating email classification and workflow auto
 ### Email Routing Overview
 ![Email Routing Overview](email-routing-overview.jpg)
 
-Project Demo
+## Project Demo
 
-Watch the full demo on LinkedIn
+[Watch the full demo on LinkedIn](https://www.linkedin.com/posts/ebuka-uzoma-10a301191_zapier-automation-workflowautomation-activity-7462972137146859521-FJZ2)
