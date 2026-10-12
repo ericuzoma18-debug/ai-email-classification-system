@@ -55,4 +55,4 @@ This is a portfolio project demonstrating email classification and workflow auto
 
 Project Demo
 
-🎥 Watch the Email Classification System Demo⁠￼(https://www.linkedin.com/posts/ebuka-uzoma-10a301191_zapier-automation-workflowautomation-activity-7462972137146859521-FJZ2?utm_medium=ios_app&rcm=ACoAAC0Su1oB4TYdyugpY1hy5D-D8w4_vleMBX4&utm_source=social_share_send&utm_campaign=copy_link)
+Watch the full demo on LinkedIn
