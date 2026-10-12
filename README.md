@@ -38,3 +38,21 @@ This project demonstrates how workflow automation can reduce manual email sortin
 ## Disclaimer
 
 This is a portfolio project demonstrating email classification and workflow automation. Classification depends on the configured rules and conditions.
+### Workflow Overview
+![Email Classification Workflow](workflow.jpg)
+
+### Gmail Email Test
+![Gmail Email Test](email-test.jpg)
+
+### Successful Workflow Execution
+![Successful Zap Run](successful-run.jpg)
+
+### Sales Email Label
+![Sales Email Label](sales-label.jpg)
+
+### Email Routing Overview
+![Email Routing Overview](email-routing-overview.jpg)
+
+## Project Demo
+
+🎥 [Watch the Email Classification System Demo] (https://lnkd.in/p/epkBWShA))
